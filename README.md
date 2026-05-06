@@ -10,7 +10,7 @@ Passionate IT professional focusing on Cybersecurity and Network Infrastructure.
 | :--- | :--- |
 | **Security** | Nmap, Wireshark, Firewalls, Incident Response |
 | **Networking** | TCP/IP, DNS, DHCP, Active Directory |
-| ** Operating Systems** | Kali Linux, Ubuntu, MacOS, Windows Server 2022 |
+| **Operating Systems** | Kali Linux, Ubuntu, MacOS, Windows Server 2022 |
 
 ---
 
